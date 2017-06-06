@@ -1,0 +1,73 @@
+body
+{
+	font-size: 16px;
+	margin: 15px
+}
+
+body > p
+{
+	margin: 15px;
+	padding: 0.25em 0.5em;
+
+	font-size: 200%;
+	font-weight: bold;
+}
+
+header
+{
+	margin: 0.5em 30%;
+	padding: 0.5em;
+
+	font-size: 300%;
+
+	color: white;
+	background-color: crimson;
+}
+
+header p
+{
+	margin: 0px;
+	padding: 0px;
+
+	text-align: center;
+}
+
+a
+{
+	margin-left: 20px;
+	margin-right: 20px;
+
+	color: blue;
+}
+
+h1, h2, h3, h4
+{
+	margin: 15px;
+}
+
+h1
+{
+	font-size: 200%;
+	padding: 0.25em 0.5em;
+	background-color: gainsboro;
+}
+
+h2
+{
+	font-size: 150%;
+	margin: 0px 2em;
+	padding: 0.3em 1em;
+	background-color: #EEEEEE;
+}
+
+h3
+{
+	font-size: 120%;
+	margin-left: 4em;
+}
+
+h4
+{
+	 font-size: 100%;
+	 margin-left: 7em;
+}
