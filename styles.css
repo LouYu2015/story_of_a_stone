@@ -32,10 +32,20 @@ header p
 	text-align: center;
 }
 
+div#copyright
+{
+	margin: 15px;
+	padding: 15px;
+
+	text-align: center;
+
+	border: 1px solid black;
+}
+
 a
 {
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
 
 	color: blue;
 }
